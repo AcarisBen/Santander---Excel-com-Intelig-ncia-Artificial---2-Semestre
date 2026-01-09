@@ -29,6 +29,7 @@ Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo 
 ## 📌 Observações
 Este projeto tem fins educacionais e demonstrativos.
 
+#########################################################################################################################################################################################################################
 
 # PROJETO 2
 
@@ -109,3 +110,79 @@ Este projeto tem caráter **organizacional e educacional** e não substitui a or
 ## 📄 Licença
 
 Este projeto é de uso livre para fins pessoais e educacionais.
+
+
+#########################################################################################################################################################################################################################
+
+# PROJETO 3
+
+
+# 📈 Dashboard Analítico – Banco de Dados Fictício
+
+Este projeto consiste no desenvolvimento de um **dashboard analítico**, construído a partir de um **banco de dados fictício**, com o objetivo de explorar, organizar e visualizar informações de forma clara e intuitiva.
+
+O foco do projeto é transformar dados brutos em **insights visuais**, simulando um cenário real de análise de dados, como os encontrados em ambientes corporativos e acadêmicos.
+
+---
+
+## 🗄️ Base de Dados
+
+A base utilizada neste projeto é **totalmente fictícia**, criada com fins educacionais e demonstrativos, simulando dados reais para análise.
+
+Ela foi estruturada de forma a permitir:
+- Análises comparativas
+- Visualização de tendências
+- Consolidação de métricas relevantes
+- Exploração de diferentes dimensões dos dados
+
+---
+
+## 📊 Estrutura do Dashboard
+
+O dashboard foi organizado para facilitar a leitura e a tomada de decisão, contendo:
+
+- Indicadores principais (KPIs)
+- Gráficos comparativos
+- Visualizações temporais
+- Segmentações e filtros para análise dinâmica dos dados
+
+Cada elemento foi pensado para apresentar as informações de forma objetiva e acessível.
+
+---
+
+## 🎯 Objetivo do Projeto
+
+- Praticar conceitos de análise e visualização de dados  
+- Simular um cenário real de tomada de decisão baseada em dados  
+- Transformar dados fictícios em informações relevantes  
+- Demonstrar organização, clareza e narrativa visual  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Ferramenta de visualização de dados (ex: Excel / Power BI / similar)
+- Banco de dados fictício
+- Gráficos e indicadores visuais
+
+---
+
+## 🚀 Como Utilizar
+
+1. Faça o download dos arquivos disponíveis neste repositório
+2. Abra o dashboard na ferramenta indicada
+3. Explore os filtros e segmentações disponíveis
+4. Analise os indicadores e gráficos apresentados
+
+---
+
+## 📌 Observações
+
+Este projeto utiliza dados fictícios e tem finalidade **educacional e demonstrativa**, não representando informações reais de empresas, pessoas ou organizações.
+
+---
+
+## 📄 Licença
+
+Este projeto é de uso livre para fins educacionais e de estudo.
+
